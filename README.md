@@ -1,6 +1,6 @@
 #### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In
 
-![GitHub Photo](https://github.com/Ishita95-harvad/Ishita95-harvad/blob/main/repository-open-graph-template.png)
+
 
 ##### 🌟 What You'll Find Here :
  
