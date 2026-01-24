@@ -13,19 +13,21 @@ Hands-on work with machine learning, deep learning, NLP, time-series forecasting
 ### 🔹 Data Science & Research
 Exploring datasets and building analytical solutions.
 
-
-## ⚖ Collaboration & Opportunities
-
-I am open to:
 - National and international research collaborations  
 - AI + Energy industry projects  
 - Academic–industry partnerships,Visa Sponsorships  
-- Conferences, workshops, and invited talks  
+- Conferences, workshops, and invited talks
+
+### 🔹 Competititonas and Hackathons
+    
 - Participating in cutting-edge contests like Kaggle challenges!
 - Experimenting with deep learning models, NLP, and structured prediction challenges
-  Feel free to explore my repositories, raise issues, contribute, or connect for collaboration.
+
+   
 
 **Email for businessenquiries:bahamniaishita@gmail.com**
+
+Feel free to explore my repositories, raise donations, contribute, or connect for collaboration.
 
 ***
 
