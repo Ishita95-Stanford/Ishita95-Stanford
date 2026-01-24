@@ -20,7 +20,7 @@ Exploring datasets and building analytical solutions.
 
 ### 🔹 Competititonas and Hackathons
     
-- Participating in cutting-edge contests like Kaggle challenges!
+- Winning and Leading in cutting-edge contests like Kaggle challenges!
 - Experimenting with deep learning models, NLP, and structured prediction challenges
 
    
