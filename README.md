@@ -1,16 +1,18 @@
-#### 📊 Welcome to my GitHub space! Here's a glimpse of what emersed In
+## 📊 Welcome to My GitHub Space
 
+Here’s a snapshot of what I’m building and exploring 👇
 
+🌟 What You’ll Find Here
 
-##### 🌟 What You'll Find Here :
- 
-🔹 **Machine Learning & AI**: Experimenting with deep learning models, NLP, and structured prediction challenges.
+### 🔹 Agentic AI & GenAI Systems
+End-to-end AI agents, multi-agent workflows, RAG pipelines, and intelligent assistants designed for real-world decision-making and automation.
 
-🔹 **Open-Source Contributions**: Sharing projects and collaborating on new ideas.
+### 🔹 Machine Learning & Data Science
+Hands-on work with machine learning, deep learning, NLP, time-series forecasting, and structured
 
-🔹 **Data Science & Research**: Exploring datasets and building analytical solutions.
+### 🔹 Data Science & Research
+Exploring datasets and building analytical solutions.
 
-🔹 **Hackathons & Competitions**: Participating in cutting-edge contests like Kaggle challenges!
 
 ## Collaboration & Opportunities
 
@@ -19,7 +21,7 @@ I am open to:
 - AI + Energy industry projects  
 - Academic–industry partnerships,Visa Sponsorships  
 - Conferences, workshops, and invited talks  
-
+- Participating in cutting-edge contests like Kaggle challenges!Experimenting with deep learning models, NLP, and structured prediction challenges
 Feel free to explore my repositories, raise issues, contribute, or connect for collaboration.
 Email for businessenquiries:bahamniaishita@gmail.com
 
